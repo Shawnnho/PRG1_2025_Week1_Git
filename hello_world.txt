@@ -1,3 +1,10 @@
+Hello World Welcome to my text file :)
+
+This is hello from Shawn. I am adding a new line of code here.
+
+Hello again. I am here to add in a second line. I am Shawn. 
+
 This is hello from Marcus. I am adding a new line of code here.
 
 Hello again. I am here to add in a second line. I am Marcus
+
